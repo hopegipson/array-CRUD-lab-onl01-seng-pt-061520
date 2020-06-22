@@ -21,7 +21,7 @@ end
 
 def remove_element_from_start_of_array(array)
   end_array = array.pop
-  puts end_array
+  returns end_array
 end
 
 def retrieve_element_from_index(array, index_number)
